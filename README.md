@@ -1,0 +1,2 @@
+# comprobar conexion internet python
+ 
